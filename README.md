@@ -1,6 +1,7 @@
 <div align="center">
 
-# 💫 About Me:
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Kumar!;" />
+
 🔭 I am eager to<br>learn, see the world from different<br>perspectives, and motivate others. <br>🤝 I’m looking for a Full time Job with New Learning As well as Skilled colleague.<br>🌱 Although currently learning Software Development<br>💬 Ask me about | My Skill Upgradation<br>⚡ Fun fact | Love Cooking Food
 
 ## 🌐 Socials:
