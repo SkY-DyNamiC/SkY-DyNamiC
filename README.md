@@ -24,7 +24,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SkY-DyNamiC&icon=7&color=3)](https://visitcount.itsvg.in)
-
+<h2>❤️ Support Me</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/buymeacoffee.com/SkyDynAmiC">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+</p>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
